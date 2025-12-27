@@ -1,0 +1,11 @@
+# TOR Scraper - Hedef URL Listesi
+# Her satır bir .onion adresi içermelidir
+# Boş satırlar ve # ile başlayan satırlar yok sayılır
+
+# Örnek .onion adresleri (bu adresler örnek amaçlıdır, gerçek adresler kullanılmalıdır)
+http://hss3uro2hsxfogfq.onion
+http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion
+# http://example3.onion
+# http://example4.onion
+# http://example5.onion
+
